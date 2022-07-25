@@ -1,4 +1,4 @@
-package com.wildcodeschool.doctors.controller;
+package com.wcs.doctors.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
